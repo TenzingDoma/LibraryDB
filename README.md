@@ -1,1 +1,1 @@
-# LibraryDB
+Welcome to the Simplified Library Management System, a Python and SQL project focused solely on backend development with an emphasis on robust database design and CRUD (Create, Read, Update, Delete) operations. This project, developed independently, is dedicated to managing library data efficiently without a graphical user interface, allowing for enhanced focus on database interaction and ensuring data integrity. Your feedback is invaluable as I continue to refine and enhance this library management solution.
